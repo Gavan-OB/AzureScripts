@@ -1,2 +1,2 @@
 # AzureScripts
-A Place to store by Azure Scripts
+A Place to store My Azure Scripts
