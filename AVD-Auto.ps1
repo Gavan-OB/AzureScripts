@@ -42,7 +42,7 @@ if($working -eq '1')
 }
 if($working -eq '0')
 {
-    $AlOn = $AlOnWeekday
+    $AlOn = $AlOnWeekend
 }
 
 $wdayout = "Working today, (1=Yes O=No): " + $working
